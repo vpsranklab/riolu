@@ -1,4 +1,4 @@
-# RioLU精灵学院机场官方地址
+# RioLU精灵学院机场 - 官网网站发布页
 
 [RioLU精灵学院](https://2o.riolu.sbs/user#/register?code=GKC50vz9)，正式支持 TUIC V5 协议，类型可选 ALL / Vless / Tuic。 解锁流媒体，人工智能，社交平台，游戏加速， Netflix、Disney+、TikTok、ChatGPT。
 
