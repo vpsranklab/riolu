@@ -1,6 +1,12 @@
 # RioLU精灵学院机场 - 官方网站发布页
 
-[RioLU精灵学院](https://jump.riolu.work/register?aff=GKC50vz9)，正式支持 TUIC V5 协议，类型可选 ALL / Vless / Tuic。 解锁流媒体，人工智能，社交平台，游戏加速， Netflix、Disney+、TikTok、ChatGPT。
+## 更多优质机场推荐
+
+https://vpsworld.org/fanqiang-ranking/
+
+---
+
+[精灵学院机场 RioLU](https://jump.riolu.work/register?aff=GKC50vz9)，正式支持 TUIC V5 协议，类型可选 ALL / Vless / Tuic。 解锁流媒体，人工智能，社交平台，游戏加速， Netflix、Disney+、TikTok、ChatGPT。
 
 使用自研后端，给大家用上最新的协议，获得更好的延迟和速度；不惜增加成本，和媒体资源商打通合作渠道，给大家提供专属的EMBY影音服务。
 
@@ -12,15 +18,15 @@
 - 不限制设备数量
 - 支付宝付款
 
-# Rank Star
+## Rank Star
 
-⭐⭐⭐⭐
+⭐⭐⭐⭐⭐
 
-# 官方网站
+## 官方网站
 
 [https://info.riolu.icu/](https://jump.riolu.work/register?aff=GKC50vz9)
 
-# 订阅列表
+## 订阅列表
 
 **季付、年付享受官网折扣**。
 
@@ -33,12 +39,12 @@
 | Platinum | 480 GB | 1000 Mbps | ¥ 48.00 |
 | Diamond | 600 GB | 1000 Mbps | ¥ 60.00 |
 
-# 优惠促销
+## 优惠促销
 
 - 新用户95折优惠码：**New2025**
 
-# 售后服务
+## 售后服务
 
-## 工单
+### 工单
 
-[提交工单](https://2o.riolu.sbs/user#/ticket)
+[提交工单](https://2o.riolu.sbs/ticket)
