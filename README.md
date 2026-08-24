@@ -1,8 +1,18 @@
-# RioLU精灵学院机场 - 官方网站发布页
+# 精灵学院机场 RioLU：特色小众V2Ray机场，入门用户低至6元/月
 
-## 更多优质机场推荐
+## 🔽 你可能还需要
 
-https://vpsworld.org/fanqiang-ranking/
+### 机场排名与推荐
+
+机场大师：[https://jichangdashi.com](https://www.jichangdashi.com/)
+
+### 机场优惠与推荐
+
+VPS World：[https://vpsworld.org/](https://vpsworld.org/)
+
+### 热门机场监测
+
+机场监测：[https://jichang.watch](https://jichang.watch/)
 
 ---
 
@@ -18,15 +28,11 @@ https://vpsworld.org/fanqiang-ranking/
 - 不限制设备数量
 - 支付宝付款
 
-## Rank Star
-
-⭐⭐⭐⭐⭐
-
-## 官方网站
+## 🌐 官方网站
 
 [https://info.riolu.icu/](https://pub2.riolu.icu/?code=GKC50vz9)
 
-## 订阅列表
+## 🧾 订阅列表
 
 **季付、年付享受官网折扣**。
 
@@ -39,12 +45,15 @@ https://vpsworld.org/fanqiang-ranking/
 | Platinum | 480 GB | 1000 Mbps | ¥ 48.00 |
 | Diamond | 600 GB | 1000 Mbps | ¥ 60.00 |
 
-## 优惠促销
+## 🛠️ 售后服务
 
-- 新用户95折优惠码：**New2025**
+| Telegram | ✅ |
+| --- | --- |
+| 工单 | ✅ |
+| 在线客服 | ✅ |
 
-## 售后服务
+## 📝 总结
 
-### 工单
+精灵学院机场 RioLU 的特色在于协议支持较新、玩法相对小众，并兼顾流媒体、AI、社交平台和游戏加速场景。它适合愿意尝试新协议、追求特色服务和低价入门的用户。
 
-[提交工单](https://2o.riolu.sbs/ticket)
+👉 官方网站：[https://info.riolu.icu/](https://pub2.riolu.icu/?code=GKC50vz9)
